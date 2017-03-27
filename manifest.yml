@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: day1certboot
-  host: day1certboot
+  name: day1certroot
+  host: day1certroot
   disk_quota: 1024M
